@@ -4,7 +4,10 @@ div{
 img{
     width: 340px;
 }
-
+p{
+	font-size: 120px;
+	color:pink;
+}
 #nak{
 	padding-top: 50vh;
 	text-align: center;
